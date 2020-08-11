@@ -1,4 +1,9 @@
-### Hi there 👋
+### Flávio Reis (aka [@isflavior](https://github.com/isflavior))
+
+- 🔧 &nbsp;Build and fix random stuff to bring people joy (including myself).
+- 🔭 &nbsp;Currently working as a software developer @[ARTSOFT](https://artsoft.pt).
+- 🇵🇹 &nbsp;Born and raised in Portugal.
+- 🤷‍♂️ &nbsp;Lacking ideas for a proper README.
 
 <!--
 **isflavior/isflavior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
